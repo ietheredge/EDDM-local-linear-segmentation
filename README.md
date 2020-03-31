@@ -1,3 +1,11 @@
+# EDDM-local-linear-segmentation
+Adapted scripts used in our final analysis, extending these techniques for use on HPC clusters and/or with GPU parallelization. See below for original repository README and supporting info.
+
+Additional dependencies:
+mpi4py
+tensorflow
+
+
 # local-linear-segmentation
 This repository contains the main scripts for local linear segmentation and subsequent analysis of the resulting model space presented in:
 
